@@ -44,7 +44,7 @@ namespace Curl_c_
 			curl.StartInfo.Arguments = argument;
 			curl.Start();
 			StreamReader reader = curl.StandardOutput;
-            return "\n"+reader.ReadToEnd();
+           		return "\n"+reader.ReadToEnd();
 		}
     }
 }
