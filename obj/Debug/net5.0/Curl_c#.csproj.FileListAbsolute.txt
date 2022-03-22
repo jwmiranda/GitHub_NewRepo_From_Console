@@ -1,0 +1,16 @@
+C:\Users\Bosward10\Desktop\Curl_c#\obj\Debug\net5.0\Curl_c#.csproj.AssemblyReference.cache
+C:\Users\Bosward10\Desktop\Curl_c#\obj\Debug\net5.0\Curl_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bosward10\Desktop\Curl_c#\obj\Debug\net5.0\Curl_c#.AssemblyInfoInputs.cache
+C:\Users\Bosward10\Desktop\Curl_c#\obj\Debug\net5.0\Curl_c#.AssemblyInfo.cs
+C:\Users\Bosward10\Desktop\Curl_c#\obj\Debug\net5.0\Curl_c#.csproj.CoreCompileInputs.cache
+C:\Users\Bosward10\Desktop\Curl_c#\bin\Debug\net5.0\Curl_c#.exe
+C:\Users\Bosward10\Desktop\Curl_c#\bin\Debug\net5.0\Curl_c#.deps.json
+C:\Users\Bosward10\Desktop\Curl_c#\bin\Debug\net5.0\Curl_c#.runtimeconfig.json
+C:\Users\Bosward10\Desktop\Curl_c#\bin\Debug\net5.0\Curl_c#.runtimeconfig.dev.json
+C:\Users\Bosward10\Desktop\Curl_c#\bin\Debug\net5.0\Curl_c#.dll
+C:\Users\Bosward10\Desktop\Curl_c#\bin\Debug\net5.0\ref\Curl_c#.dll
+C:\Users\Bosward10\Desktop\Curl_c#\bin\Debug\net5.0\Curl_c#.pdb
+C:\Users\Bosward10\Desktop\Curl_c#\obj\Debug\net5.0\Curl_c#.dll
+C:\Users\Bosward10\Desktop\Curl_c#\obj\Debug\net5.0\ref\Curl_c#.dll
+C:\Users\Bosward10\Desktop\Curl_c#\obj\Debug\net5.0\Curl_c#.pdb
+C:\Users\Bosward10\Desktop\Curl_c#\obj\Debug\net5.0\Curl_c#.genruntimeconfig.cache
